@@ -1,0 +1,65 @@
+nlu:
+- intent: greet
+  examples: |
+   	How is the josh
+	How's your day going
+	Good Evening!
+	You are right
+	How are you today?
+
+
+- intent: praise:
+  examples: |
+	Bravo
+	Amazing!
+	You are awesome!
+	that's great.
+	You're so thoughtful.
+	Outstanding
+	Amazing
+	you are so Awesome !
+    
+
+
+- intent: bye
+ 	Got to go
+	see you
+	alrighty then
+	see ya
+	ok bye
+	Bubye
+
+- intent: negative response:
+  examples: |
+	no
+	nope
+	Not possible
+
+- intent: ask
+  examples: |
+	what are you capable of?
+	Tell me your capability?
+	Do ypu offer your service to medium soze enterprices?
+	
+	
+
+   
+- intent: confirm
+  examples: |
+	exactly
+	yep
+	
+
+- intent: request
+  examples: |
+	show me contact number
+	could you help me provinding service support
+	tell me about your capabilties
+
+	
+
+
+
+  
+
+
